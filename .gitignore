@@ -98,6 +98,7 @@ __pypackages__/
 celerybeat-schedule
 celerybeat.pid
 
+
 # SageMath parsed files
 *.sage.py
 
@@ -130,3 +131,4 @@ dmypy.json
 
 # ide
 .idea
+.vscode
